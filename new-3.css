@@ -16,6 +16,9 @@ h1 {
   margin: 5px;
   padding: 5px;
 }
+body {
+  font-family: 'Architects Daughter', cursive;
+}
 
 .flex_container-3 {
   display: flex;

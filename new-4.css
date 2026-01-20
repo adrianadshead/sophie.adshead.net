@@ -7,7 +7,9 @@ p {
 h1 {
   font-weight: bold;
 }
-
+body {
+  font-family: 'Architects Daughter', cursive;
+}
 .flex_container {
   display: flex;
   flex-direction: row;

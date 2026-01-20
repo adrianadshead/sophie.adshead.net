@@ -1,0 +1,33 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+.flex_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+.flex_container-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.flex_container-3 {
+  display: flex;
+  column-gap: 30px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
